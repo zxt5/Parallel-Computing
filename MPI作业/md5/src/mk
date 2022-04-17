@@ -1,0 +1,4 @@
+gcc -c *.c -O3 -Wall
+gcc -o md5driver *.o
+rm -f *.o
+
