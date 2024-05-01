@@ -1,3 +1,3 @@
 # Parallel-Computing
 
-A good course.
+Course Assignments
